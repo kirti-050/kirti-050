@@ -5,7 +5,7 @@
 - 🧠 **[MNIST Neural Network (NumPy)](https://github.com/kirti-050/MNIST-Neural-Network)** — neural network built from scratch using only NumPy to classify MNIST digits — with an interactive Streamlit app for drawing or uploading your own. | [Live App](https://mnist-neural-network-numpy.streamlit.app/)
 - 🚇 **[Delhi Metro Ridership Analysis](https://github.com/kirti-050/delhi-metro-ridership-analysis)** — End-to-end forecasting & anomaly detection on 150K+ trip records using SARIMA, deployed as a 5-page Streamlit app | [Live App](https://delhi-metro-ridership.streamlit.app)
 - 📉 **[Telco Customer Churn Prediction](https://github.com/kirti-050/telco-customer-churn-prediction)** — Compared 4 classification models, achieving 79% recall on churn class
-- 🏠 **[House Price Prediction](https://github.com/kirti-050/House-Price-Prediction)** — Linear Regression vs Random Forest, deployed as a Streamlit app
+- 🏠 **[House Price Prediction](https://github.com/kirti-050/House-Price-Prediction)** — Linear Regression vs Random Forest, deployed as a Streamlit app | [Live App](https://house-price-prediction-app-using-machine-learning.streamlit.app/)
 
 
 ## 🌐 Socials:
