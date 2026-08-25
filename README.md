@@ -2,11 +2,11 @@
 🔭 I'm currently working on<br>- A vector database built from scratch (in progress) — AI/ML flagship project<br>- Strengthening my Python, Machine Learning, and LLM/GenAI skills<br>- Applying for fresher AI/ML Engineer and Data Analyst roles<br><br>👯 I'm looking to collaborate on<br>- Open-source AI/ML projects<br>- Generative AI applications (RAG, LLM agents)<br>- Python automation tools and developer utilities<br><br>🤝 I'm looking for help with<br>- Writing production-level code<br>- MLOps and deploying ML models<br>- Open-source contributions and best development practices<br><br>🌱 I'm currently learning<br>- Generative AI (LLMs, RAG, AI Agents)<br>- Data Structures & Algorithms<br>- Backend development with Python<br><br>💬 Ask me about<br>- Python, Machine Learning, Data Analysis<br>- AI/ML projects & portfolio building<br>- Books, psychology, and productivity<br>- Photography & aesthetic content creation<br><br>⚡ Fun fact<br>I enjoy building AI projects, reading psychological thrillers, writing poetry, and photographing whenever I need a creative break.
 
 ## 🚀 Featured Projects:
+- 🧠 **[MNIST Neural Network (NumPy)](https://github.com/kirti-050/MNIST-Neural-Network)** — neural network built from scratch using only NumPy to classify MNIST digits — with an interactive Streamlit app for drawing or uploading your own. | [Live App](https://mnist-neural-network-numpy.streamlit.app/)
 - 🚇 **[Delhi Metro Ridership Analysis](https://github.com/kirti-050/delhi-metro-ridership-analysis)** — End-to-end forecasting & anomaly detection on 150K+ trip records using SARIMA, deployed as a 5-page Streamlit app | [Live App](https://delhi-metro-ridership.streamlit.app)
 - 📉 **[Telco Customer Churn Prediction](https://github.com/kirti-050/telco-customer-churn-prediction)** — Compared 4 classification models, achieving 79% recall on churn class
 - 🏠 **[House Price Prediction](https://github.com/kirti-050/House-Price-Prediction)** — Linear Regression vs Random Forest, deployed as a Streamlit app
-- 👥 **[HR Analytics Dashboard](https://github.com/kirti-050/HR-Analytics-Dashboard-Excel)** — Excel dashboard uncovering a 16.1% attrition rate and key attrition drivers using Power Query & Pivot Tables
-- 📈 **[Sales Performance Dashboard](https://github.com/kirti-050/Sales-Dashboard)** — Interactive Excel dashboard with KPI cards, slicers, and pivot-based insights
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirti-srivastava-16a7a3290/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirtisri.vin19@gmail.com) 
